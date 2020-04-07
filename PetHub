@@ -15,16 +15,16 @@
    <p2>
     <table>
      <tr>
-      <td><strong>Nombre</strong></td>
-      <td><strong>Precios</strong></td>
-      <td><strong>Cuidado</strong></td>
-      <td><strong>Educacion</strong></td>
-      <td><strong>Salud</strong></td>
-      <td><strong>Peluqueria</strong></td>
-      <td><strong>Limpieza</strong></td>
+      <td><strong>| Nombre |</strong></td>
+      <td><strong>| Precios |</strong></td>
+      <td><strong>| Cuidado |</strong></td>
+      <td><strong>| Educacion |</strong></td>
+      <td><strong>| Salud |</strong></td>
+      <td><strong>| Peluqueria |</strong></td>
+      <td><strong>| Limpieza |</strong></td>
      </tr>
      <tr>
-      <td>WeCare</td>
+      <td><a href="#wecare"><em>WeCare</em></a></td>
       <td>3<span>&#8364;</span>/h</td>
       <td><span>&#10004;</span></td>
       <td><span>&#10006;</span></td>
@@ -33,7 +33,7 @@
       <td><span>&#10006;</span></td>
      </tr>
      <tr>
-      <td>WeTeach</td>
+      <td><a href="#weteach"><em>WeTeach</em></a></td>
       <td>20<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td>1h/sem.</td>
@@ -42,7 +42,7 @@
       <td><span>&#10006;</span></td>
      </tr>
      <tr>
-      <td>HealthyPet</td>
+      <td><a href="#healthypet"><em>HealthyPet</em></a></td>
       <td>40<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
@@ -51,7 +51,7 @@
       <td><span>&#10004;</span></td>
      </tr>
      <tr>
-      <td>PetWash</td>
+      <td><a href="#petwash"><em>PetWash</em></a></td>
       <td>15<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
@@ -60,7 +60,7 @@
       <td><span>&#10004;</span></td>
      </tr>
      <tr>
-      <td>FashionPet</td>
+      <td><a href="#fashionpet"><em>FashionPet</em></a></td>
       <td>20<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
@@ -69,15 +69,21 @@
       <td><span>&#10004;</span></td>
      </tr>
      <tr>
-      <td>PremiumPet</td>
+      <td><a href="#premiumpet"><em>PremiumPet</em></a></td>
       <td>100<span>&#8364;</span>/mes</td>
       <td>1,5<span>&#8364</span>/h</td>
-      <td><span>&#10004;</span></td>
+      <td>1h/sem.</td>
       <td><span>&#10004;</span></td>
       <td><span>&#10004;</span></td>
       <td><span>&#10004;</span></td>
      </tr>
-    </table>
+    </table><br>
+    <a name="wecare"><strong>WeCare: </strong>/*descripcion*/</a><br>
+    <br><a name="weteach"><strong>WeTeach: </strong>/*descripcion*/</a><br>
+    <br><a name="healthypet"><strong>HealthyPet: </strong>/*descripcion*/</a><br>
+    <br><a name="petwash"><strong>PetWash: </strong>/*descripcion*/</a><br>
+    <br><a name="fashionpet"><strong>FashionPet: </strong>/*descripcion*/</a><br>
+    <br><a name="premiumpet"><strong>PremiumPet: </strong>/*descripcion*/</a><br>
    </p2>
   </body>
  </html>
