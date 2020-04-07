@@ -5,14 +5,15 @@
    <title>PetHub</title>
   </head>
   <body>
-   <h2>PetHub</h2>
+   <h2><em><strong>PetHub</em></strong></h2>
    <h3>Tu mascota como en casa</h3>
    <h4>
-    /*links*/
-    <a href="#nuestros_servicios">Nuestros servicios</a>
+    <a href="#pricing">- Pricing -</a>
+    <a href="#nuestros_servicios"> Nuestros servicios -</a>
+    <a href="#quienes_somos"> Quienes somos -</a>
+    <a href="#contacto"> Contacto -</a>
    </h4>
-   <p1><a name="nuestros_servicios"><strong>NUESTROS SERVICIOS</strong></a></p1>
-   <p2>
+   <h5><a name="pricing"><strong>PRICING</strong></a></h5>
     <table>
      <tr>
       <td><strong>| Nombre |</strong></td>
@@ -77,13 +78,19 @@
       <td><span>&#10004;</span></td>
       <td><span>&#10004;</span></td>
      </tr>
-    </table><br>
+    </table>
+   <br>
+   <h5><a name="nuestros_servicios"><strong>NUESTROS SERVICIOS</strong></a></h5>
     <a name="wecare"><strong>WeCare: </strong>/*descripcion*/</a><br>
-    <br><a name="weteach"><strong>WeTeach: </strong>/*descripcion*/</a><br>
-    <br><a name="healthypet"><strong>HealthyPet: </strong>/*descripcion*/</a><br>
-    <br><a name="petwash"><strong>PetWash: </strong>/*descripcion*/</a><br>
-    <br><a name="fashionpet"><strong>FashionPet: </strong>/*descripcion*/</a><br>
-    <br><a name="premiumpet"><strong>PremiumPet: </strong>/*descripcion*/</a><br>
-   </p2>
+    <a name="weteach"><strong>WeTeach: </strong>/*descripcion*/</a><br>
+    <a name="healthypet"><strong>HealthyPet: </strong>/*descripcion*/</a><br>
+    <a name="petwash"><strong>PetWash: </strong>/*descripcion*/</a><br>
+    <a name="fashionpet"><strong>FashionPet: </strong>/*descripcion*/</a><br>
+    <a name="premiumpet"><strong>PremiumPet: </strong>/*descripcion*/</a>
+   <br>
+   <h5><a name="quienes_somos">QUIENES SOMOS</a></h5>
+    <p>/*descripcion*/<p>
+   <br>
+   <h5><a name="contacto">CONTACTO</a>
   </body>
  </html>
