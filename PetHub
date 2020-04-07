@@ -35,7 +35,7 @@
      </tr>
      <tr>
       <td><a href="#weteach"><em>WeTeach</em></a></td>
-      <td>20<span>&#8364;</span>/mes</td>
+      <td>30<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td>1h/sem.</td>
       <td><span>&#10006;</span></td>
@@ -71,7 +71,7 @@
      </tr>
      <tr>
       <td><a href="#premiumpet"><em>PremiumPet</em></a></td>
-      <td>100<span>&#8364;</span>/mes</td>
+      <td>75<span>&#8364;</span>/mes</td>
       <td>1,5<span>&#8364</span>/h</td>
       <td>1h/sem.</td>
       <td><span>&#10004;</span></td>
@@ -92,5 +92,39 @@
     <p>/*descripcion*/<p>
    <br>
    <h5><a name="contacto">CONTACTO</a>
+    <form method="post" action="miservidor.php">
+     <div>
+      <label for="servicio">Servicio de interes: </label>
+      <select id="servicio">
+       <option value="wecare">WeCare</option>
+       <option value="weteach">WeTeach</option>
+       <option value="healthypet">HealthyPet</option>
+       <option value="petwash">PetWash</option>
+       <option value="fashionpet">FashionPet</option>
+       <option value="premiumpet">PremiumPet</option>
+      </select>
+     </div>
+     <div>
+      <label for="pregunta">Alguna pregunta: </label>
+      <textarea id="pregunta"></textarea>
+     </div>
+     <div>
+      <label for="name">Nombre: </label>
+      <input id="name" type="text">
+     </div>
+     <div>
+      <label for="ape">Apellido: </label>
+      <input id="ape" type="text">
+     </div>
+     <div>
+      <label for="email">E-mail: </label>
+      <input id="email" type="text>
+     </div>
+     <div>
+      <label for="telefono">Telefono: </label>
+      <input id="telefono" type="number">
+     </div>
+      <button type="submit">Enviar</button>
+    </form>
   </body>
  </html>
