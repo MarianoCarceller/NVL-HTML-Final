@@ -3,19 +3,94 @@
   <head>
    <meta charset="utf-8">
    <title>PetHub</title>
+   <style>
+    body {background-color: rgb(255, 255, 250);}
+    h1{
+       font-family: comic sans ms;
+       background-color: rgb(200, 245, 240);
+      }
+    
+    h5{
+       font-family: verdana;
+       background-color: rgb(200, 245, 240);
+      }
+    
+    h2{
+       font-family: arial black;
+       background-color: rgb(140, 140, 250);
+      }
+    
+    h3{
+       font-family: arial;
+      }
+    
+    p1{
+       font-family: verdana;
+       background-color: rgb(220, 250, 130);
+      }
+    
+    p{
+      font-family: arial;
+     }
+    
+    table{
+        font-family: arial;
+       }
+    
+    form{
+         font-family: arial;
+        }
+   </style>
   </head>
   <body>
    <h1><em><strong>PetHub</em></strong></h1>
    <h5>Tu mascota como en casa</h5>
-   <br>
-   <h4>
-    <a href="#pricing">- Pricing -</a>
-    <a href="#nuestros_servicios"> Nuestros servicios -</a>
-    <a href="#quienes_somos"> Quienes somos -</a>
-    <a href="#contacto"> Contacto -</a>
-   </h4>
-   <br>
-   <h5><a name="pricing"><strong>PRICING</strong></a></h5>
+   
+<br>
+   <p1>
+    <strong>
+    <a href="#nuestros_servicios">-| Nuestros servicios |</a>    
+    <a href="#pricing">| Pricing |</a>
+    <a href="#quienes_somos">| Quienes somos |</a>
+    <a href="#contacto">| Contacto |-</a>
+    </strong>
+   </p1>
+   
+<br>
+   <h2><a name="nuestros_servicios"><strong>NUESTROS SERVICIOS</strong></a></h2>
+    
+    <p><a name="wecare"><strong>WeCare:</strong></a></p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+    
+    <p><a name="weteach"><strong>WeTeach:</strong></a></p>
+     <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
+    
+    <p><a name="healthypet"><strong>HealthyPet:</strong></a></p>
+     <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p> 
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
+    
+    <p><a name="petwash"><strong>PetWash:</strong></a></p>
+     <p>/*Descripciondescripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
+    
+    <p><a name="fashionpet"><strong>FashionPet:</strong></a></p>
+     <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
+    
+    <p><a name="premiumpet"><strong>PremiumPet:</strong></a></p>
+     <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
+   
+<br>
+   <h2><a name="pricing"><strong>PRICING</strong></a></h2>
     <table>
      <tr>
       <td><strong>| Nombre |</strong></td>
@@ -26,8 +101,9 @@
       <td><strong>| Peluqueria |</strong></td>
       <td><strong>| Limpieza |</strong></td>
      </tr>
+     
      <tr>
-      <td><a href="#wecare"><em>WeCare</em></a></td>
+      <td><a href="#wecare">WeCare</a></td>
       <td>3<span>&#8364;</span>/h</td>
       <td><span>&#10004;</span></td>
       <td><span>&#10006;</span></td>
@@ -35,8 +111,9 @@
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
      </tr>
+     
      <tr>
-      <td><a href="#weteach"><em>WeTeach</em></a></td>
+      <td><a href="#weteach">WeTeach</a></td>
       <td>35<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td>1h/sem.</td>
@@ -44,8 +121,9 @@
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
      </tr>
+     
      <tr>
-      <td><a href="#healthypet"><em>HealthyPet</em></a></td>
+      <td><a href="#healthypet">HealthyPet</a></td>
       <td>40<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
@@ -53,8 +131,9 @@
       <td><span>&#10006;</span></td>
       <td><span>&#10004;</span></td>
      </tr>
+     
      <tr>
-      <td><a href="#petwash"><em>PetWash</em></a></td>
+      <td><a href="#petwash">PetWash</a></td>
       <td>15<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
@@ -62,8 +141,9 @@
       <td><span>&#10006;</span></td>
       <td><span>&#10004;</span></td>
      </tr>
+     
      <tr>
-      <td><a href="#fashionpet"><em>FashionPet</em></a></td>
+      <td><a href="#fashionpet">FashionPet</a></td>
       <td>20<span>&#8364;</span>/mes</td>
       <td><span>&#10006;</span></td>
       <td><span>&#10006;</span></td>
@@ -71,8 +151,9 @@
       <td><span>&#10004;</span></td>
       <td><span>&#10004;</span></td>
      </tr>
+     
      <tr>
-      <td><a href="#premiumpet"><em>PremiumPet</em></a></td>
+      <td><a href="#premiumpet">PremiumPet</a></td>
       <td>75<span>&#8364;</span>/mes</td>
       <td>1,5<span>&#8364</span>/h</td>
       <td>1h/sem.</td>
@@ -80,69 +161,37 @@
       <td><span>&#10004;</span></td>
       <td><span>&#10004;</span></td>
      </tr>
-    </table>
-   <br>
-   <h5><a name="nuestros_servicios"><strong>NUESTROS SERVICIOS</strong></a></h5>
-    <p><a name="wecare"><strong>WeCare: </strong>/*descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</a></p>
-    <br>
-    <p><a name="weteach"><strong>WeTeach: </strong>/*descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</a></p>
-    <br>
-    <p><a name="healthypet"><strong>HealthyPet: </strong>/*descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</a></p>
-    <br>
-    <p><a name="petwash"><strong>PetWash: </strong>/*descripciondescripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</a></p>
-    <br>
-    <p><a name="fashionpet"><strong>FashionPet: </strong>/*descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</a></p>
-    <br>
-    <p><a name="premiumpet"><strong>PremiumPet: </strong>/*descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion 
-    <br>
-    descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</a></p>
-   <br>
-   <h5><a name="quienes_somos">QUIENES SOMOS</a></h5>
-    <p>/* descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-    <br>
-    descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-    <br>
-    descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion. */</p>
-    <h5><strong><em>Nuestro equipo</em></strong></h5>
-     <p><strong>Agustin</strong>/* descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-     <br>
-     descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion.*/</p>
-     <p><strong>Juan</strong>/* descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-     <br>
-     descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
-     <p><strong>Lucia</strong>/* descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-     <br>
-     descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
-     <p><strong>Isabel</strong>/* descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-     <br>
-     descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
-     <p><strong>Alberto</strong>/* descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion 
-     <br>
-     descripcion descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
-     <br>
-   <h5><a name="contacto">CONTACTO</a></h5>
+    </table>   
+   
+<br>
+   <h2><a name="quienes_somos">QUIENES SOMOS</a></h2>
+    <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+    <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+    <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion. */</p>
+    
+    <h3><strong>Nuestro equipo</strong></h3>
+     <p><strong>Agustin</strong></p>
+      <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+      <p>descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion.*/</p>
+     
+     <p><strong>Juan</strong></p>
+      <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+      <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
+     
+     <p><strong>Lucia</strong></p>
+      <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+      <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
+     
+     <p><strong>Isabel</strong></p>
+      <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+      <p>descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
+     
+     <p><strong>Alberto</strong></p>
+      <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
+      <p>Descripcion descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
+   
+<br>
+   <h2><a name="contacto">CONTACTO</a></h2>
     <form method="post" action="miservidor.php">
      <div>
       <label for="servicio">Servicio de interes: </label>
@@ -155,32 +204,32 @@
        <option value="premiumpet">PremiumPet</option>
       </select>
      </div>
-     <br>
+<br>
      <div>
       <label for="pregunta">Alguna pregunta: </label>
       <textarea id="pregunta"></textarea>
      </div>
-     <br>
+<br>
      <div>
       <label for="name">Nombre: </label>
       <input id="name" type="text">
      </div>
-     <br>
+<br>
      <div>
       <label for="ape">Apellido: </label>
       <input id="ape" type="text">
      </div>
-     <br>
+<br>
      <div>
       <label for="email">E-mail: </label>
       <input id="email" type="text>
      </div>
-     <br>
+<br>
      <div>
       <label for="telefono"> Telefono: </label>
       <input id="telefono" type="number">
      </div>
-     <br>
+<br>
       <button type="submit">Enviar</button>
     </form>
   </body>
