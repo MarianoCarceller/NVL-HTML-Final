@@ -2,7 +2,7 @@
  <html>
   <head>
    <meta charset="utf-8">
-   <title>PetHub</title>
+   <title>PetHub - Tu mascota como en casa</title>
    <style>
     body {background-color: rgb(255, 255, 250);}
     h1{
@@ -33,6 +33,12 @@
       font-family: arial;
      }
     
+    p2{
+       font-family: impact;
+       font-size: 25px;
+       background-color: rgb(220, 250, 130);
+       }
+    
     table{
         font-family: arial;
        }
@@ -59,31 +65,43 @@
 <br>
    <h2><a name="nuestros_servicios"><strong>NUESTROS SERVICIOS</strong></a></h2>
     
-    <p><a name="wecare"><strong>WeCare:</strong></a></p>
-     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
-     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
-    
-    <p><a name="weteach"><strong>WeTeach:</strong></a></p>
+    <p2><a name="wecare">WeCare:</a></p2>
+     <br>
+     <img src="https://www.southwestjournal.com/wp-content/uploads/2017/08/shutterstock_229078582.jpg" height="200">
+     <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
+     <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion*/</p>
+<br>    
+    <p2><a name="weteach">WeTeach:</a></p2>
+     <br>
+     <img src="https://www.petbusiness.com/covering%20bases.png" height="200">
      <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
-    
-    <p><a name="healthypet"><strong>HealthyPet:</strong></a></p>
+<br>
+    <p2><a name="healthypet">HealthyPet:</a></p2>
+     <br>
+     <img src="https://s3.amazonaws.com/clients.granalacantadvertiser.images/wp-content/uploads/2017/11/01104614/Diagnostics-69122694.jpg" height="200">
      <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p> 
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
-    
-    <p><a name="petwash"><strong>PetWash:</strong></a></p>
+<br>
+    <p2><a name="petwash">PetWash:</a></p2>
+     <br>
+     <img src="https://images.squarespace-cdn.com/content/v1/59ef6f428c56a8a5b423d42e/1509081206764-RATC7OFMNJEOYABV7SKF/ke17ZwdGBToddI8pDm48kBIkQ6BpXxi_9dtfIasthhVZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzSaLj8w0YDPn2WHB8GJ_LztSXmqlyOsVSt0NebUuTxNFM_pkrYYVyX5hyB9gpLD9Y/home-self-serve.jpg" height="200">
      <p>/*Descripciondescripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
-    
-    <p><a name="fashionpet"><strong>FashionPet:</strong></a></p>
+<br>
+    <p2><a name="fashionpet">FashionPet:</a></p2>
+     <br>
+     <img src="https://www.teacupdogdaily.com/wp-content/uploads/2016/06/Dog-Grooming-and-Haircuts.jpg" height="200">
      <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion */</p>
-    
-    <p><a name="premiumpet"><strong>PremiumPet:</strong></a></p>
+<br>
+    <p2><a name="premiumpet">PremiumPet:</a></p2>
+     <br>
+     <img src="https://itemsandideas.com/wp-content/uploads/2019/12/3.jpg" height="200">
      <p>/*Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
      <p>Descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion descripcion</p>
@@ -170,23 +188,33 @@
     <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion. */</p>
     
     <h3><strong>Nuestro equipo</strong></h3>
-     <p><strong>Agustin</strong></p>
+     <p1><strong>Agustin</strong></p1>
+      <br>
+      <img src="https://ak9.picdn.net/shutterstock/videos/25302719/thumb/1.jpg" height="150">
       <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
       <p>descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion.*/</p>
      
-     <p><strong>Juan</strong></p>
+     <p1><strong>Juan</strong></p1>
+      <br>
+      <img src="https://ak7.picdn.net/shutterstock/videos/24826907/thumb/5.jpg" height="150">
       <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
       <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
      
-     <p><strong>Lucia</strong></p>
+     <p1><strong>Lucia</strong></p1>
+      <br>
+      <img src="https://lakecrestdental.com/wp-content/uploads/sites/25/2018/09/tooth-colored_fillings_3.jpg" height="150">
       <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
       <p>Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
      
-     <p><strong>Isabel</strong></p>
+     <p1><strong>Isabel</strong></p1>
+      <br>
+      <img src="https://www1.wakehealth.edu/uploadedImages/User_Content/PatientsAndVisitors/Patient_Care/Urology/Specialties/Female_Pelvic_Health_Services/female-stock.jpg" height="150">
       <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
       <p>descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
      
-     <p><strong>Alberto</strong></p>
+     <p1><strong>Alberto</strong></p1>
+      <br>
+      <img src="https://image.freepik.com/free-photo/smiling-man-face-white-background_33839-3342.jpg" height="150">
       <p>/*Descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion</p>
       <p>Descripcion descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion  descripcion */</p>
    
@@ -207,30 +235,32 @@
 <br>
      <div>
       <label for="pregunta">Alguna pregunta: </label>
-      <textarea id="pregunta"></textarea>
+      <textarea id="pregunta" placeholder="Pregunta"></textarea>
      </div>
 <br>
      <div>
       <label for="name">Nombre: </label>
-      <input id="name" type="text">
+      <input id="name" type="text" placeholder="Nombre">
      </div>
 <br>
      <div>
       <label for="ape">Apellido: </label>
-      <input id="ape" type="text">
+      <input id="ape" type="text" placeholder="Apellido">
      </div>
 <br>
      <div>
       <label for="email">E-mail: </label>
-      <input id="email" type="text>
+      <input id="email" type="text" placeholder="E-mail">
      </div>
 <br>
      <div>
       <label for="telefono"> Telefono: </label>
-      <input id="telefono" type="number">
+      <input id="telefono" type="number" placeholder="Telefono">
      </div>
 <br>
       <button type="submit">Enviar</button>
     </form>
+   <h1><em><strong>PetHub</em></strong></h1>
+   <h5>642-50-15-65 pethub@gmail.com</h5>
   </body>
  </html>
